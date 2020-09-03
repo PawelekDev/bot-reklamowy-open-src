@@ -1,0 +1,12 @@
+{
+    "botConfig": {
+        "token": "Token",
+        "prefix": ".",
+        "owner": "749225466627358720",
+        "botStatus": "By kacperrrooo#6666"
+    },
+    "adsConfig": {
+        "Verifiers": ["749225466627358720", "743430537808445572", "id3 etc."],
+        "verChannel": "751133167414542417"
+    }
+}

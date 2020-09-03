@@ -1,2 +1,0 @@
-# bot-reklamowy-open-src
- 
